@@ -1,0 +1,9 @@
+body{margin:0;font-family:Arial,sans-serif;line-height:1.6;background:#f4f6f8;color:#222}
+header{background:#0b4f8a;color:#fff;padding:20px 0}
+.container{width:90%;max-width:1100px;margin:auto}
+nav a{color:#fff;text-decoration:none;margin-right:18px}
+.hero{background:#12395d;color:#fff;text-align:center;padding:70px 20px}
+.btn{display:inline-block;background:#ffb400;color:#000;padding:12px 22px;text-decoration:none;border-radius:4px}
+section{padding:45px 0}
+footer{background:#222;color:#fff;text-align:center;padding:18px}
+ul li{margin:8px 0}
