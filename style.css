@@ -1190,3 +1190,40 @@ text-align:center;
 }
 
 }
+/* =========================
+Brand
+========================= */
+
+.brand{
+    display:flex;
+    align-items:center;
+    gap:15px;
+}
+
+.brand-text{
+    display:flex;
+    flex-direction:column;
+}
+
+.brand-text h2{
+    margin:0;
+    font-size:30px;
+    font-weight:700;
+    color:#0b3d91;
+    line-height:1;
+    letter-spacing:1px;
+}
+
+.brand-text p{
+    margin-top:4px;
+    font-size:11px;
+    color:#ff9800;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    font-weight:600;
+}
+
+.logo img{
+    width:80px;
+    height:auto;
+}
