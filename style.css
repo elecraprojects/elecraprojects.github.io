@@ -95,7 +95,7 @@ box-shadow:0 3px 12px rgba(0,0,0,.08);
     padding:15px 0;
 }
 nav{
-    margin-right:40px;
+    margin-right:25px;
 }
 .brand{
     display:flex;
@@ -118,7 +118,7 @@ nav{
 }
 
 nav{
-    margin-left:60px;
+    margin-left:40px;
 }
 
 nav ul{
