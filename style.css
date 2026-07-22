@@ -561,15 +561,15 @@ gap:20px;
 }
 
 .service-card:hover img{
-    transform:scale(0.9);
+    transform:scale(1);
 }
 
 .service-card h3{
-    padding:28px;
-    text-align:center;
-    color:#0b3d91;
-    font-size:30px;
+    margin:0;
+    padding:14px 10px;
+    font-size:22px;
     font-weight:700;
+    color:#0B3D91;
 }
 
 /*=========================================
